@@ -50,10 +50,10 @@ By completing these tasks, you will learn:
    ├── image_to_text/
    │   ├── openai/
    │   │   ├── message.py           # ✅ Complete
-   │   │   └── task_openai_itt.py   # 🚧 TODO
-   │   └── task_dial_itt.py         # 🚧 TODO
+   │   │   └── task_openai_itt.py   # ✅ Complete
+   │   └── task_dial_itt.py         # ✅ Complete
    └── text_to_image/
-       └── task_tti.py              # 🚧 TODO
+       └── task_tti.py              # ✅ Complete
    dialx-banner.png                 # 📁 Sample image
    ```
 
